@@ -10,5 +10,5 @@
 * Computer Engineering (CE) • Class of 2021  
 * khg9859@gmail.com
 
-✏️ **IT Blog** — [Here](https://your-link.com)  
+✏️ **IT Blog** — [Here](https://velog.io/@khg9859/posts)  
 📝 **Portfolio** — [Here](https://your-link.com)
