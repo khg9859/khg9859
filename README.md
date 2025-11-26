@@ -1,16 +1,14 @@
-## Hi there 👋
+# Welcome To My GitHub!
 
-<!--
-**khg9859/khg9859** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![Kim Hong Geun's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=khg9859&show_icons=true&theme=radical)](https://github.com/khg9859)
 
-Here are some ideas to get you started:
+[![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=khg9859&langs_count=10&layout=compact&theme=radical)](https://github.com/khg9859)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🙋‍♂️ Personal Info
+* Kim Hong Geun (김홍근)
+* Hansung University (HSU)  
+* Computer Engineering (CE) • Class of 2021  
+* khg9859@gmail.com
+
+✏️ **IT Blog** — [Here](https://your-link.com)  
+📝 **Portfolio** — [Here](https://your-link.com)
