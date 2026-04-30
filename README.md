@@ -11,4 +11,4 @@
 * khg9859@gmail.com
 
 ✏️ **IT Blog** — [Here](https://velog.io/@khg9859/posts)  
-📝 **Portfolio** — [Here](https://portfolio-xi-five-12.vercel.app/)
+📝 **Portfolio** — [Here]([https://portfolio-xi-five-12.vercel.app/](https://portfolio-v2-ruby-six.vercel.app/))
