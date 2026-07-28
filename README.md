@@ -8,7 +8,7 @@
 * Kim Hong Geun (김홍근)
 * Hansung University (HSU)  
 * Computer Engineering (CE) • Class of 2021  
-* khg9859@gmail.com
+* pentel2@naver.com
 
-✏️ **IT Blog** — [Here](https://velog.io/@khg9859/postsㅎㅎ)  
-📝 **Portfolio** — [Here](https://ㅎㅎportfolio-v2-ruby-six.vercel.app/)
+✏️ **IT Blog** — [Here](https://velog.io/@khg9859/posts)  
+📝 **Portfolio** — [Here](https://khg9859.github.io/)
